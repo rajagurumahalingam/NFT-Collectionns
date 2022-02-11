@@ -1,4 +1,4 @@
-[submodule "my-app"]
-	path = my-app
-	url = ./my-app
+[submodule "NFT_Collections"]
+	path = NFT_Collections
+	url = https://github.com/rajagurumahalingam/NFT_Collectionns.git
 	ignore = dirty
